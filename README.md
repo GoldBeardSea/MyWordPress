@@ -36,6 +36,16 @@ Please visit [AWS] (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-h
   3. For Application code, choose Sample application.
   4. Choose Review and launch.
   5. Review the available options. When you're satisfied with them, choose Create app.
+4. Create CodePipeline
+  1. Go to AWS CodePipeline console 
+  2. Set up a pipeline based around your source code in our case github. 
+  3. Identify the github repositority and the branch to launch. 
+  4. Skip Build for now. 
+  5. Review and launch pipeline. 
+  6. Edit and add build and test stages. 
+
+
+[Code Pipeline] ()
 
 
 ## Collaborators
