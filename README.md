@@ -12,7 +12,7 @@
 
 
 ## Setup
-Please visit [AWS] (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html) for more detailed instructions.
+Please visit [AWS](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html) for more detailed instructions.
 1. Login to AWS and create an RDS database instance:
     1. Open the Amazon RDS console.
     2. Choose Databases in the navigation pane.
