@@ -45,7 +45,7 @@ Please visit [AWS] (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-h
   6. Edit and add build and test stages. 
 
 
-[Code Pipeline] ()
+![Code Pipeline](https://raw.githubusercontent.com/GoldBeardSea/MyWordPress/master/assets/Screen%20Shot%202019-07-23%20at%2012.52.03%20PM.png)
 
 
 ## Collaborators
